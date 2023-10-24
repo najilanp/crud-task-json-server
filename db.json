@@ -8,22 +8,35 @@
     },
     {
       "id": "2",
-      "caption": "The Spanish Love Deception",
-      "url": "https://www.junkybooks.com/administrator/bookimages/62e235c8e53c18.02809945.JPG",
-      "link": "https://www.junkybooks.com/book/reader.php?book=thebooks/62e235c8e53c4-the-spanish-love-deception.pdf"
-    },
-    {
-      "id": "3",
-      "caption": "Twisted Lies",
-      "url": "https://www.junkybooks.com/administrator/bookimages/63b03a1ac20a14.58857277.jpg",
-      "link": "https://www.junkybooks.com/book/reader.php?book=thebooks/63b03a1ac20a2-twisted-lies.pdf"
-    },
-    {
-      "id": "4",
       "caption": "New Moon",
       "url": "https://www.junkybooks.com/administrator/bookimages/63975905ae5d01.40590307.jpg",
       "link": "https://www.junkybooks.com/book/reader.php?book=thebooks/63975905ae5d3-new-moon.pdf"
+    },
+    {
+      "id": "3",
+      "caption": "The Great Controversy",
+      "url": "https://www.junkybooks.com/administrator/bookimages/637a1eb663f661.85778218.jpg",
+      "link": "https://www.junkybooks.com/book/reader.php?book=thebooks/637a1eb663f92-the-great-controversy.pdf"
     }
   ],
-  "categories": []
+  "categories": [
+    {
+      "categoryName": "fiction",
+      "allBooks": [
+        {
+          "id": "3",
+          "caption": "The Great Controversy",
+          "url": "https://www.junkybooks.com/administrator/bookimages/637a1eb663f661.85778218.jpg",
+          "link": "https://www.junkybooks.com/book/reader.php?book=thebooks/637a1eb663f92-the-great-controversy.pdf"
+        },
+        {
+          "id": "2",
+          "caption": "New Moon",
+          "url": "https://www.junkybooks.com/administrator/bookimages/63975905ae5d01.40590307.jpg",
+          "link": "https://www.junkybooks.com/book/reader.php?book=thebooks/63975905ae5d3-new-moon.pdf"
+        }
+      ],
+      "id": 1
+    }
+  ]
 }
